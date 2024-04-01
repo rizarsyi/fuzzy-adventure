@@ -1,3 +1,3 @@
 ### agama-bioid
 
-Agama Project to authenticate people using BioID AAA
+Agama Project to authenticate people using BioID
